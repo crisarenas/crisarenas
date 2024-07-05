@@ -1,7 +1,7 @@
-## Robotics And Electronics Engineer 👋
+## Robotics Engineer 👋
 ![gatete](https://romporters.files.wordpress.com/2016/05/irisbuddies_bugsinthecode2b-2bcopy.png "programming cat")
 
-Hi, I'm Cristina! I'm an electronics and robotics engineer who is very interested into the exciting world of data. If you are interested in my work stuff, please visit my [LinkedIn](https://www.linkedin.com/in/cristina-arenas/). Otherwise, you can find my coolest public programming projects below:
+Hi, I'm Cristina! You can find me on [LinkedIn](https://www.linkedin.com/in/cristina-arenas/). Otherwise, you can find my coolest public programming projects below:
 
 * [Heartbeat Classification](https://github.com/crisarenas/Heartbeat_Classification)
 
@@ -13,6 +13,5 @@ Hi, I'm Cristina! I'm an electronics and robotics engineer who is very intereste
 
 * [Chat API](https://github.com/crisarenas/W6-chat-API)
 
-**Enjoy!**
 
 
